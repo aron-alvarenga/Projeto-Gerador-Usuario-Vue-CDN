@@ -7,6 +7,8 @@ Projeto Gerador de Usuário utilizando Vue.js e API Random User
 ### 🖼️ Imagens
 
 <div align="center">
-  <img width="400" alt="Imagem da aplicação" src="./imagem_1.PNG">
-  <img width="400" alt="Imagem da aplicação" src="./imagem_2.PNG">
+  <img width="600" alt="Imagem da aplicação" src="./imagem_1.PNG">
+</div>
+<div align="center">
+  <img width="600" alt="Imagem da aplicação" src="./imagem_2.PNG">
 </div>
